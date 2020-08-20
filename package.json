@@ -6,7 +6,7 @@
   "author": "D.A Han <dawun.han@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "class-validator": "^0.12.2",
     "cors": "^2.8.5",
     "graphql-playground-html": "^1.6.22",
